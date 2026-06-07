@@ -22,7 +22,7 @@ Language: Java
 
 Framework: JavaFX (GUI)
 
-Concepts: Stack Data Structures(Stacks,cursorArray), Operator Precedence Parsing
+Concepts: custom Stack Data Structures (based on custom Cursor Array), Operator Precedence Parsing
 
 📖 Usage Example
 for normal mode:
